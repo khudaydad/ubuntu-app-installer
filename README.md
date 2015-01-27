@@ -8,3 +8,5 @@ git clone https://github.com/khudaydad/ubuntu-app-installer.git
 sudo chmod +x /Path/To/File/installer.sh
 
 sudo ./installer.sh
+
+I am here
